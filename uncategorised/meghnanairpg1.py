@@ -1,0 +1,8 @@
+a,b=int(input("enter a number: ")),int(input("enter a number: "))
+print("addition:",a,"+",b,"=",a+b)
+print("subtraction:",a,"-",b,"=",a-b)
+print("multiplication:",a,"*",b,"=",a*b)
+print("division:",a,"/",b,"=",a/b)
+print("modulus:",a,"%",b,"=",a%b)
+print("floor division:",a,"//",b,"=",a//b)
+print("exponent:",a,"**",b,"=",a**b)

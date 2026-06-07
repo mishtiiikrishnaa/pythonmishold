@@ -1,0 +1,7 @@
+print("python")
+print()
+print("\tpython")
+print()
+print("languages: \npython\nC++\njavascript")
+print()
+print("languages: \n\tpython\n\tC++\n\tjavascript")

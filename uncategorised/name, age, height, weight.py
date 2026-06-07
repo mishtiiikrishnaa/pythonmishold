@@ -1,0 +1,1 @@
+print("name: meg, age: 16 \nheight: x cm, weight: y kg")

@@ -1,0 +1,5 @@
+dna_seq=input("some letters: ")
+DNA_SEQ=dna_seq.upper()
+print("codon 1", DNA_SEQ[0:3])
+print("codon 2", DNA_SEQ[3:6])
+print("codon 3", DNA_SEQ[6:9])

@@ -1,0 +1,3 @@
+magicians = ["zatanna", "raven", "killer frost", "music meister"]
+for magician in magicians:
+    print(f"{magician.title()}, that was a cool trick!")

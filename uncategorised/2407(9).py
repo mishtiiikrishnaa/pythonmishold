@@ -1,0 +1,11 @@
+rows = int(input("enter no of rows:"))
+print("* " * rows, end="\n")
+columns = (rows // 2) - 1
+no_of_stars= 2
+while columns != 0:
+    while no_of_stars <= (rows - 2):
+        print("*" * columns, end="")
+        print("_" * no_of_stars, end="")
+        print("*" * columns, end="\n")
+        columns=columns-1
+        no_of_stars = no_of_stars + 2

@@ -1,0 +1,1 @@
+print("name: meg\nclass: 11th")

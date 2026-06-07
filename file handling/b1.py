@@ -1,0 +1,9 @@
+f=open("tezt.bin","wb")
+num=[5,10,15]
+arr=bytearray(num)
+f.write(arr)
+f.close()
+f=open("tezt.bin","rb")
+num=list(f.read())
+print(num)
+f.close()
